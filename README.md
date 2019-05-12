@@ -3,7 +3,7 @@
 <br />
 Description:<br />
 Sample code to read data from Ultrasonic Ranging Module HC-SR04<br />
-GitHub: https://github.com/flaviomauro/Adafruit_Feather_Ultrasound_Distance_HCSR04<br />
+GitHub: https://github.com/flaviomauro/adafruit-feather-ultrasound-distance-hcrs04<br />
 <br />
 Item list:<br />
 <ul>
@@ -17,7 +17,7 @@ Item list:<br />
 <br />
 How to Wire:<br />
 *******************************************************************************<br />
-<img src="https://github.com/flaviomauro/Adafruit_Feather_Ultrasound_Distance_HCSR04/blob/master/Adafruit_Feather_Ultrasound_Distance_HCSR04.png"><br />
+<img src="https://github.com/flaviomauro/adafruit-feather-ultrasound-distance-hcrs04/blob/master/Adafruit_Feather_Ultrasound_Distance_HCSR04.png"><br />
 *******************************************************************************<br />
  * @author: Flavio H. C. Mauro<br />
  * @date:   11-Jan-2017<br />
