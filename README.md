@@ -1,4 +1,4 @@
-# Adafruit_Feather_Ultrasound_Distance_HCSR04<br />
+# adafruit-feather-ultrasound-distance-hcrs04<br />
 <br />
 <br />
 Description:<br />
